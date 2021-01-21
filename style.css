@@ -1,3 +1,51 @@
 body{
     background-color: rgb(200, 186, 212);
+    
 }
+
+.home{
+    display: flex;
+    background-color: chartreuse;
+    box-sizing: border-box;
+}
+
+img{
+    margin: 5px;
+    padding: 5px;
+    
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #6e8dce;
+  }
+  
+#github{
+    float: left;
+    margin: 5px;
+    padding: 5px;
+  }
+
+  .menu{
+     background-color: honeydew;
+     border: 1px solid rgb(66, 55, 55); 
+     display: flex;
+     box-sizing: border-box;
+     
+  }
+
+  .men{
+    
+    margin: auto;
+    padding: 0px;   
+    
+  }
+
+  .mebu-box{
+    box-sizing: border-box;
+     border: 1px solid black;
+      text-align: center;
+      height: 500px;
+      margin: 5px;
+  }
